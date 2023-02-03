@@ -1,0 +1,86 @@
+body{
+  font-family:"Roboto Mono", Sans Serif;
+}
+
+.container{
+  margin:60px 0px;
+}
+
+.color-panel{
+  display:inline-block;
+  width:20vw;
+}
+.cool-blue{
+  background-color:#1B6BA2;
+  color:white;
+  text-align:center;
+  margin:10px 10px;
+  padding:10px 0px;
+  font-family:Rubik, Sans Serif;
+  font-size:18px;
+}
+
+.cool-yellow{
+  background-color:#F0ED51;
+  color:white;
+  text-align:center;
+  margin:10px 10px;
+  padding:10px 0px;
+  font-family:Rubik, Sans Serif;
+  font-size:18px;
+}
+
+.cool-green{
+  background-color:#699E65;
+  color:white;
+  text-align:center;
+  margin:10px 10px;
+  padding:10px 0px;
+  font-family:Rubik, Sans Serif;
+  font-size:18px;
+}
+
+.font-panel{
+  margin:50px 0px;
+}
+
+.rubik{
+  font-family:Rubik, Sans Serif;
+}
+
+.italic-rubik{
+  font-style:italic;
+  font-family:Rubik, Sans Serif;
+}
+.bold-rubik{
+  font-weight:bold;
+  font-family:Rubik, Sans Serif;
+}
+
+.regular-rubik{
+  font-family:Rubik, Sans Serif;
+}
+
+.text-panel h1{
+  font-weight:bold;
+  font-size:26px;
+  font-family:Rubik, Sans Serif;
+}
+
+.text-panel h2{
+  font-weight: 500;
+  font-size: 18px;
+  font-family: Rubik,Sans Serif;
+}
+
+.text-panel h3{
+  font-weight: regular;
+  font-size: 14px;
+  font-family: "Roboto Sans",Sans Serif;
+}
+
+h2{
+  font-size:26px;
+  font-family:Rubik,Sans Serif;
+  text-decoration:underline;
+}

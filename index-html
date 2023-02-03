@@ -1,0 +1,83 @@
+<html>
+
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&family=Rubik:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <h1>My Website Style Guide</h1>
+    <div class="container">
+     
+      <h2>Colors</h2>
+      <div class="color-container">
+        <div class="color-panel cool-blue">
+          <p class="color-label" >Cool Blue</p>
+          <p class="color-hex">#1B6BA2</p>
+        </div>
+        <div class="color-panel cool-yellow">
+          <p class="color-label" >Cool Yellow</p>
+          <p class="color-hex">#F0ED51</p>
+        </div>
+        <div class="color-panel cool-green">
+          <p class="color-label" >Cool Green</p>
+          <p class="color-hex">#699E65</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+     
+      <h2>Fonts</h2>
+      <div class="font-container">
+        <div class="font-panel">
+          <p class="font-label rubik">Rubik</p>
+          <p class="regular-rubik">The quick brown fox jumps over the lazy dog.</p>
+          <p class="bold-rubik">The quick brown fox jumps over the lazy dog.</p>
+          <p class="italic-rubik">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+        <div class="font-panel">
+          <p class="font-label roboto-mono">Roboto Mono</p>
+          <p class="regular roboto-mono">The quick brown fox jumps over the lazy dog.</p>
+
+        </div>
+        
+      </div>
+    </div>
+    <div class="container">
+     
+      <h2>Text Styles</h2>
+      <div class="text-container">
+        <div class="text-panel">
+          
+          <h1>H1: Main page heading</h1>
+          <ul>
+            <li>Font-weight: 700 (bold)</li>
+            <li>Font-size: 26px</li>
+            <li>Font-family: Rubik</li>
+          </ul>
+        </div>
+        <div class="text-panel">
+          
+          <h2>H2: Subheading</h2>
+          <ul>
+            <li>Font-weight: 500</li>
+            <li>Font-size: 18px</li>
+            <li>Font-family: Rubik</li>
+          </ul>
+        </div>
+        <div class="text-panel">
+          <p>P: Paragraph text</p>
+          <ul>
+            <li>Font-weight: 400 (regular)</li>
+            <li>Font-size: 14px</li>
+            <li>Font-family: Roboto Sans</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
